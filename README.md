@@ -1,6 +1,6 @@
 # LeetCode Challenges
 
-Welcome to my LeetCode challenges repository in JavaScript. The goal of this project is to solve one challenge per day until completing a total of 30 easy, 30 medium, and 30 hard challenges in one month.
+Welcome to my LeetCode challenges repository in JavaScript. The goal of this project is to solve one challenge per day until completing a total of 30 easy, 30 medium, and 30 hard challenges in 90 days.
 
 I choose to use JavaScript as my programming language of choice for problem-solving due to its ability to deliver fast development times. This enables me to spend less time on the syntax and more time focusing on the core logic of the problems. Additionally, JavaScript's dynamic nature allows for quick prototyping, which is crucial when solving coding challenges that often require multiple iterations and trial-and-error.
 
