@@ -22,6 +22,20 @@ test.js: contains unit tests to verify that the solution is correct.
 - All programming languages are allowed.
 - The challenges must completely pass the LeetCode tests.
 
+## Used Technlogies
+
+This project uses several technologies to solve the LeetCode challenges and test the solutions. The main technologies used are:
+
+- Node.js v19.8.1: The built-in test library in Node.js is used to run the unit tests for each solution.
+
+- RunJS: RunJS is used as an IDE to write and test the code, allowing for faster development times and quicker feedback on the solutions.
+
+- VSCode: VSCode is used as the primary code editor to write the test cases for each solution.
+
+- Git: Git is used to version control the code and upload the challenges to GitHub.
+
+By utilizing these technologies, the project aims to provide an efficient and effective way to solve the LeetCode challenges and improve programming skills.
+
 ## Contributions
 
 Feel free to clone this repository and solve the challenges on your own. If you find a more optimal solution or discover a better way to solve a challenge, please create a pull request to share your solutions.
