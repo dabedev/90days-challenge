@@ -15,6 +15,13 @@ solution.js: contains the solution to the challenge in JavaScript.
 test.js: contains unit tests to verify that the solution is correct.
 ```
 
+## Challenge Rules
+
+- The timer must start as soon as you start reading the problem.
+- You may only use built-in features/libraries.
+- All programming languages are allowed.
+- The challenges must completely pass the LeetCode tests.
+
 ## Contributions
 
 Feel free to clone this repository and solve the challenges on your own. If you find a more optimal solution or discover a better way to solve a challenge, please create a pull request to share your solutions.
