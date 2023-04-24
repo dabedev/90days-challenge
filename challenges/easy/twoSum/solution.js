@@ -2,6 +2,7 @@
 // Challenge: https://leetcode.com/problems/two-sum/
 // Runtime: 73ms
 // Memory: 42.9MB
+// Note: N/A
 
 const twoSum = function (nums, target) {
     var hash = {};
