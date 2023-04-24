@@ -1,6 +1,6 @@
 const { deepStrictEqual } = require('node:assert');
 const { describe, it } = require('node:test')
-const romanToInt = require('./romanToInt.js');
+const romanToInt = require('./solution.js');
 
 describe('Roman numbers to Integers', () => {
     it('Should convert Roman numeral "III" to the integer 3', () => {
